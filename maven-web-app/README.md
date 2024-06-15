@@ -18,7 +18,7 @@ EXPOSE 8080
 
 1. **Clone the GitHub Repository**
     ```bash
-    git clone https://github.com/bsinghh/maven-web-app.git
+    git clone [https://github.com/bsinghh/maven-web-app.git](https://github.com/Bhaveshsingh30/DevopsProject1.git)
     ```
 
 2. **Navigate to the Project Directory**
